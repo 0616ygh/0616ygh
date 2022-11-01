@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @0616ygh
-- 👀 I’m interested in RTL and OpenEDA
-- 🌱 I’m currently learning OpenLane 
-- 📫 How to reach me : ygh158@tom.com
+- 👋 Hi, I’m Guohua
+- 👀 I’m interested in computer architecture and open-source EDA
+- 🌱 I’m currently learning OpenLane and RISC-V
+- 📫 How to reach me : rios.y@rioslab.org
 
 <!---
 0616ygh/0616ygh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
